@@ -10,7 +10,7 @@
 
 ##  What I Learned
 		This assignment helped me better understand concepts such as IF, Else statements. The proper way to initialize my variables and also the importance of a semi-colon after every statement.
-		What the proper usage of math expressions and how to implement them in my code. Understanding methods and how scope can be an issue if not in between the proper set of {} braces. I also learned to write my programs 
+		What the proper usage of math expressions and how to implement them in my code. Understanding methods and how scope can be an issue if said variable or method is not in between the proper set of {} braces. I also learned to write my programs 
 		in a way that aids someone who does not know how to use it, and to be keen on users with malicious intent.
 
 
