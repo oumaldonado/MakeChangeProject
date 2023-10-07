@@ -18,9 +18,9 @@
 	Hello ladies and gentlemen this is the latest and greatest software for your company's cash register. Don't believe me? Let me show you...
 	Introducing Register 1.0.
 	This software is extremely intelligent built with the best programming language in the world. JAVA (8)
-	Register 1.0, or Regi as we call it. Allows users to accurately know how much change to dispense. That includes the money owed to the customer, and shows the exact denomination of bills/coins needed to 
+	Register 1.0, or Regi as we call it. Allows users to accurately know how much change to dispense. That includes the money owed to the customer, and shows 	the exact denomination of bills/coins needed to 
 	be returned to the customer. With our patent pending UI (User Interface) it reduces the amount of erroneous transactions by and astounding 30%.
-	You simply tell Regi the price of the item and how much money was received from the customer. After that, Regi calculates the  return and thanks to beautiful magic that is called Math it prints outs an easy to read message. 	Regi leaves enough space in between lines to ensure that the user reads it  without straining their eyes. So for you business folk, that translates to less employees complaining of eye fatigue. 
-	There has never been a better time to upgrade your cash register. call (111)-111-1111 and say Osvaldo sent you for an additional 10% off Purchase price. Thank you!
+	You simply tell Regi the price of the item and how much money was received from the customer. After that, Regi calculates the  return and thanks to 		beautiful magic that is called Math it prints outs an easy to read message. 	Regi leaves enough space in between lines to ensure that the user reads it  	without straining their eyes. So for you business folk, that translates to less employees complaining of eye fatigue. 
+	There has never been a better time to upgrade your cash register. call (111)-111-1111 and say Osvaldo sent you for an additional 10% off Purchase price. 	Thank you!
 	 
 	 
