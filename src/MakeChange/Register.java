@@ -36,6 +36,7 @@ public class Register {
 			if (changeDue / 20 >= 1) {
 				twenties = (int) changeDue / 20;
 				changeDue = changeDue % 20;
+				System.out.println("\n Twenty Dollar Bills: " + twenties);
 			}
 			if (changeDue / 10 >= 1) {
 				tens = (int) changeDue / 10;
